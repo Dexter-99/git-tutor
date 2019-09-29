@@ -1,4 +1,4 @@
 # new-repo
-*Wroking on git"
-*Learning
-*Improvising
+* Wroking on git *
+* Learning
+* Improvising
