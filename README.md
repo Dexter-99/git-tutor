@@ -2,3 +2,4 @@
 * Wroking on git *
 ## purpose
 *hands on git*
+*new tags*
