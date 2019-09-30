@@ -1,4 +1,4 @@
-# new-repo
-* Wroking on git *
-## purpose
+# New-repo
+*Working on git* 
+## Purpose
 *hands on git*
