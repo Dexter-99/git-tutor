@@ -4,5 +4,7 @@ submit.addEventListener("click", e => {
   let num2 = Number(document.querySelector("#num2").value);
   let sum = num1 + num2;
   console.log(sum);
-  let result = (document.querySelector(".result").innerHTML = sum);
+  let result = (document.querySelector(
+    ".result"
+  ).innerHTML = `<h1>${sum}</h1>`);
 });
