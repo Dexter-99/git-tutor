@@ -1,4 +1,4 @@
 # New-repo
-*Working on git* 
+*Working on Git anf Github* 
 ## Purpose
-*hands on git*
+*Proficiency in git  and Github*
